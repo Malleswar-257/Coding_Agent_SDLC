@@ -1,0 +1,17 @@
+{
+  "project_name": "blog-website-app",
+  "description": "A modern blog website with user authentication, content management, and responsive design. Features include article publishing, user profiles, comments system, and admin dashboard.",
+  "frontend_stack": "Next.js 14",
+  "backend_stack": "FastAPI + SQLAlchemy",
+  "features": [
+    "User authentication and registration",
+    "Article creation and editing",
+    "Comment system",
+    "User profiles",
+    "Admin dashboard",
+    "Responsive design",
+    "SEO optimization"
+  ],
+  "database": "PostgreSQL",
+  "deployment": "Vercel + Railway"
+}

@@ -1,0 +1,44 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+.venv
+
+# Environment variables
+.env
+.env.local
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+*.sublime-project
+*.sublime-workspace
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Streamlit
+.streamlit/
+
+# Temporary files
+*.tmp
+*.temp
+*.log
+
+# Generated projects (if stored locally)
+generated_projects/
+*.zip
+
+# API Key setup scripts (may contain keys)
+setup_groq_key.bat
+setup_groq_key.sh
+YOUR_GROQ_KEY.md
+
