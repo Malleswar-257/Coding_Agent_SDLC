@@ -429,7 +429,5 @@ For issues, questions, or feature requests:
 
 ---
 
-**Built with ❤️ using Streamlit, LangGraph, and modern AI models.**
+**Built with using Streamlit, LangGraph, and modern AI models.**
 
-**Version**: 2.0.0  
-**Last Updated**: 2024
